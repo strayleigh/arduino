@@ -80,3 +80,4 @@ void loop() {
   delay(1000);  
 }  
 // }
+//pak ini hasil joki teman saya 
